@@ -13,7 +13,9 @@ public abstract class MilitaryUnit {
     }
 
     public int doDamage() {
+
         return damage;
+
     }
 
     public void sufferDamage(int damage) {
